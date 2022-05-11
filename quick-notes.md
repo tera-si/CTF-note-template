@@ -20,72 +20,72 @@
 
 ## 21 TCP
 
-[ ] searchsploit
-[ ] hacktricks
-[ ] google
-[ ] anonymous login
-[ ] weak credentials
-[ ] default credentials
-[ ] reuse credentials
-[ ] file uploading
+- [ ] searchsploit
+- [ ] hacktricks
+- [ ] google
+- [ ] anonymous login
+- [ ] weak credentials
+- [ ] default credentials
+- [ ] reuse credentials
+- [ ] file uploading
 
 ## 22 TCP
 
-[ ] searchsploit
-[ ] hacktricks
-[ ] google
-[ ] weak credentials
-[ ] reuse credentials
+- [ ] searchsploit
+- [ ] hacktricks
+- [ ] google
+- [ ] weak credentials
+- [ ] reuse credentials
 
 ## 53 TCP
 
-[ ] searchsploit
-[ ] hacktricks
-[ ] google
-[ ] zone transfer
+- [ ] searchsploit
+- [ ] hacktricks
+- [ ] google
+- [ ] zone transfer
 
 ## 80/443 TCP
 
-[ ] searchsploit
-[ ] hacktricks
-[ ] google
-[ ] robots.txt
-[ ] sitemap.xml
-[ ] nikto
-[ ] gobuster
+- [ ] searchsploit
+- [ ] hacktricks
+- [ ] google
+- [ ] robots.txt
+- [ ] sitemap.xml
+- [ ] nikto
+- [ ] gobuster
 
 ## 135 TCP
 
-[ ] searchsploit
-[ ] hacktricks
-[ ] google
-[ ] rpcdump.py $RHOST -p 135
+- [ ] searchsploit
+- [ ] hacktricks
+- [ ] google
+- [ ] rpcdump.py $RHOST -p 135
 
 ## 139 TCP
 
-[ ] searchsploit
-[ ] hacktricks
-[ ] google
-[ ] nmap scripts
+- [ ] searchsploit
+- [ ] hacktricks
+- [ ] google
+- [ ] nmap scripts
 
 ## 445 TCP
 
-[ ] searchsploit
-[ ] hacktricks
-[ ] google
-[ ] nmap scripts (especially smb-vuln\*)
-[ ] enum4linux
-[ ] anonymous login
-[ ] weak credentials
-[ ] default credentials
-[ ] reuse credentials
-[ ] file uploading
+- [ ] searchsploit
+- [ ] hacktricks
+- [ ] google
+- [ ] nmap scripts (especially smb-vuln\*)
+- [ ] enum4linux
+- [ ] anonymous login
+- [ ] weak credentials
+- [ ] default credentials
+- [ ] reuse credentials
+- [ ] file uploading
 
 ## PORT TCP/UDP Service Version
 
-[ ] searchsploit
-[ ] hacktricks
-[ ] google
+- [ ] searchsploit
+- [ ] hacktricks
+- [ ] google
 
 ---
 
