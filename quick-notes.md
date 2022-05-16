@@ -109,6 +109,8 @@ FLAG{}
 
 ## PrivEsc
 
+## Post-Exploitation
+
 ---
 
 # Mitigations
