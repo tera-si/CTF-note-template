@@ -31,4 +31,6 @@ It's just a template, you can take note however you want. But here is how I usua
   - login page for some service
     - simple SQLi bypass didn't work
   - nothing unusual in the web source code
+- /dev:
+  - Has a text box that doesn't seem to do anything
 ```
