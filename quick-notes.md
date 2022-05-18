@@ -3,6 +3,7 @@
 - Take screenshots
 - Log terminals
 - State changes you've made to tools/payloads/exploits
+- whoami && cat /full/path/flag.txt && ip addr
 
 ---
 
@@ -42,6 +43,7 @@
 - [ ] searchsploit
 - [ ] hacktricks
 - [ ] google
+- [ ] dig
 - [ ] zone transfer
 
 ## 80/443 TCP
@@ -101,13 +103,13 @@ FLAG{}
 
 ---
 
-# Quick Walkthru
+# Quick Walkthrough
 
 ## Enumeration
 
 ## Foothold
 
-## PrivEsc
+## Privilege Escalation
 
 ## Post-Exploitation
 
