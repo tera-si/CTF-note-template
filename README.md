@@ -14,6 +14,7 @@ It's just a template, you can take note however you want. But here is how I usua
 ## 80 TCP Apache Tomcat 9
 
 - [x] searchsploit    <------     I check out the things I've tried
+  - < 9.0.1 (Beta) / < 8.5.23 / < 8.0.47 / < 7.0.8 - JSP Upload Bypass / Remote Code Execution (42966)?
 - [ ] hacktricks
 - [ ] google
 - [x] robots.txt
