@@ -1,3 +1,7 @@
+# Important Notice
+
+This note template is no longer maintained. All the updates of it can be found in [note template generator I wrote](https://github.com/tera-si/CTF-Note-Template-Generator). It is basically the same note template, but automated.
+
 # Introduction
 
 Markdown note template for CTFs and OSCP.
